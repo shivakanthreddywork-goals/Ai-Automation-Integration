@@ -1,0 +1,5 @@
+[
+  {"topic":"returns","keywords":["return","refund","exchange"],"answer":"Demo policy: unused items may be returned within 30 days with proof of purchase. This is sample content; replace it with the client's approved policy."},
+  {"topic":"shipping","keywords":["shipping","delivery","arrive","tracking"],"answer":"Demo policy: standard delivery usually takes 3–5 business days. This is sample content; replace it with the client's approved policy."},
+  {"topic":"account","keywords":["password","login","account"],"answer":"For account access, use the official password-reset flow. Never ask customers to send passwords or one-time codes."}
+]

@@ -1,0 +1,5 @@
+[
+  {"id":"HR-001","title":"Expense Policy","text":"Employees should submit expense claims within 30 days of the transaction. Receipts are required for claims above the internal threshold. Managers review claims before reimbursement."},
+  {"id":"IT-002","title":"Password Policy","text":"Employees must use the official password reset portal. Never share passwords or one-time codes with anyone, including support staff."},
+  {"id":"OPS-003","title":"Remote Work Policy","text":"Remote work arrangements require manager approval. Teams should document working hours and follow the organization's information security rules."}
+]
